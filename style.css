@@ -1,0 +1,26 @@
+
+
+table,th,td{
+			border: 2px solid black;
+			border-collapse: collapse;
+            color:rgb(17, 17, 24); background-color: lightgray;;
+		}
+h1{
+    font-style:oblique;color: rgb(24, 23, 26); background-color: powderblue; text-align: center;
+}
+h2{
+    font-style: italic;color:rgb(21, 20, 22); text-align: center; background-color: powderblue;
+}
+img{
+    display: block;
+}
+.logo{
+    position: absolute;
+    width: 155px ;
+    border-radius: 100%;
+    display: block;
+    float: right;
+    top: 110px;
+    right: 0;
+    /* right: 10px; */
+}
